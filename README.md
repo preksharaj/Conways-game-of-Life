@@ -6,5 +6,5 @@ Navigate through the folder:<br />
 1. `cd Conway/src/`<br />
 Then compile the project using:<br />
 2.`javac JavaLife.java`<br />
-After Compilation of the Java file Run the Project by
+After Compilation of the Java file Run the Project by<br />
 3.`java JavaLife`<br />
